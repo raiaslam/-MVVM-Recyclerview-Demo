@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Recyclerview Demo MVVM</string>
+    <string name="space">\u0020</string>
+</resources>
